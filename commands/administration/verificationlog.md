@@ -24,7 +24,7 @@ We recommend making this channel only visible for Moderator and Administrator.
 
 ##How to actually use it
 
-For enabling and set the verification-log to `#verification-log` we need to enter the following command
+For enabling and set the verification-log to `#verification-log` we need to enter the following command.
 
 ```
 -verificationlog enable #verification-log

@@ -6,34 +6,21 @@ Bot permission: `ADMINISTRATION`<br>User permission: `ADMINISTRATION`
 
 ##Description
 
-With this command you can set and enable the verification-log. 
+With this command we can get some rough stats of a Brawl Stars player. 
 
 ##Usage
 
--verification-log <enable / disable> [channel] 
+-bsplayer <player Tag>
 
 | Argument | Description |
 | :--- | :--- | 
-| role | Command name. |
-
-- Command name
-- Whether the verification-log should be enabled or disabled
-- The channel in which the verification will be logged
-
-{% hint style="warning" %}
-We recommend making this channel only visible for Moderator and Administrator.
-{% endhint %}
+| bsplayer | Command name. |
+| player Tag | A Brawl Stars player tag. |
 
 ##How to actually use it
 
-For enabling and set the verification-log to `#verification-log` we need to enter the following command
+If we want the stats of the Brawl Stars player `#YU9G98V8` we enter this command.
 
 ```
--verificationlog enable #verification-log
-```
-
-For change or disable we need to disable the command. When changing we have to use the command from above.
-
-```
--verification disable
+-bsplayer #YU9G98V8
 ```
