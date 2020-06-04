@@ -6,17 +6,19 @@ Bot permission: `ADMINISTRATION`<br>User permission: `ADMINISTRATION`
 
 ##Description
 
-With this command you can change the bot's prefix of your server.
+With this command we can change the bot's prefix of the server.
 
 ##Usage
 
 -setprefix <prefix>
 
-- Command name
-- The new prefix
+| Argument | Description |
+| :--- | :--- | 
+| setprefix | Command name. |
+| prefix | The new prefix. |
 
 {% hint style="danger" %}
-There is a minimum of 1 and a maximum of 5 characters for the prefix
+There is a minimum of 1 and a maximum of 5 characters for the prefix.
 {% endhint %}
 
 ##How to actually use it

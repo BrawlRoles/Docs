@@ -6,7 +6,7 @@ Bot permission: `ADMINISTRATION`<br>User permission: `ADMINISTRATION`
 
 ##Description
 
-With this command you can add a Brawl Stars club to the database and link the club with roles. 
+With this command we can add a Brawl Stars club to the database and link different roles with it. 
 
 ##Usage
 
@@ -21,7 +21,7 @@ With this command you can add a Brawl Stars club to the database and link the cl
 | rank/default | The rank a member must have in the Brawl Stars club to get the role or default if every member from the club should get it. Available ranks are: `Member`, `Senior` or `Vice-President`. |
 
 {% hint style="danger" %}
-The role argument must be one word, the role id, the mentioned role or you can search for it when there are multiple roles with the argument you have inserted.
+The role argument must be one word, the role id, the mentioned role, or we can search for it when there are multiple roles with the argument we've inserted.
 {% endhint %}
 
 ##How to actually use it

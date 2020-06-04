@@ -6,14 +6,16 @@ Bot permission: `ADMINISTRATION`<br>User permission: `ADMINISTRATION`
 
 ##Description
 
-With this command you can change the bot's language of your server.
+With this command we can change the bot's language of the server.
 
 ##Usage
 
 -setlanguage <language>
 
-- Command name
-- The new language
+| Argument | Description |
+| :--- | :--- | 
+| setlanguage | Command name. |
+| language | The new language of the guild. |
 
 {% hint style="danger" %}
 Available languages are `english` and `german`. If the language is set to `german`, to change the language only `english` works. 
@@ -27,7 +29,7 @@ If we want to change the language from english to german, we have to enter the f
 -setlanguage german
 ```
 
-In the opposite direction we have to enter english
+In the opposite direction we have to enter english.
 
 ```
 -setlanguage english

@@ -12,6 +12,10 @@ With this command you can set and enable the verification-log.
 
 -verification-log <enable / disable> [channel] 
 
+| Argument | Description |
+| :--- | :--- | 
+| role | Command name. |
+
 - Command name
 - Whether the verification-log should be enabled or disabled
 - The channel in which the verification will be logged

@@ -14,7 +14,7 @@
 * [Verification-log](commands/administration/verificationlog.md)
 
 ##Brawl Stars commands
-* [BSplayer](commands/brawlstars/bsplayer.md)
+* [Bsplayer](commands/brawlstars/bsplayer.md)
 * [Verify](commands/brawlstars/verify.md)
 
 ##General commands
