@@ -41,32 +41,27 @@ We already set a role in the `verification` command that will be added to verifi
 ```
 -role add @BS_Player add verified
 ```
-<br>
-If we want to remove a role when the member verifies himself we use this command.
+<br>If we want to remove a role when the member verifies himself we use this command.
 
 ```
 -role add @Not_Verified remove verified
 ```
-<br>
-We have the Brawl Stars Profile with the tag `#YU9G98V8` as shown in the picture above. We also have the role `@Dach_Legend` on the Discord server. If we want to give the role `@DACH_Legend` to every player which has more than 15.000 Trophies as his personal best, when the member verifies himself, we have to enter the following command.
+<br>We have the Brawl Stars Profile with the tag `#YU9G98V8` as shown in the picture above. We also have the role `@Dach_Legend` on the Discord server. If we want to give the role `@DACH_Legend` to every player which has more than 15.000 Trophies as his personal best, when the member verifies himself, we have to enter the following command.
 
 ```
 -role add @Dach_Legend add highestTrophies 15000
 ```
-<br>
-If the player must have more than 1000 3vs3 victories to get the role `@+15k ⚔`, we enter the following command.
+<br>If the player must have more than 1000 3vs3 victories to get the role `@+15k ⚔`, we enter the following command.
 
 ```
 -role add @+15k ⚔ add 3vs3 15000
 ```
-<br>
-if we want the player to get the role `@Verified` as soon as he verifies himself, with no other conditions, we enter the following command.
+<br>If we want the player to get the role `@Verified` as soon as he verifies himself, with no other conditions, we enter the following command.
 
 ```
 -role add @Verified add verified
 ```
-<br>
-When we want to remove the role `@Dach_Legend` from the database we have to enter the following command.
+<br>When we want to remove the role `@Dach_Legend` from the database we have to enter the following command.
 
 ```
 -role remove @Dach_Legend
