@@ -12,14 +12,21 @@ With this command you can set, reset or get a Usertag of a server member. You ca
 
 `-tag <option> [user / tag] [tag]`
 
-| option | Description | Usage |
-| :--- | :--- | :--- |
-| find | Find a user saved in the Database by its Tag | -tag find <tag> |
-| get | get a tag saved by the mentioned user in the Database | -tag get <user> |
-| reset | reset a user's tag | -tag reset <user> |
-| set | link a tag to the mentioned user | -tag set <user> <tag> |
-|  |  |  |
+| option | Description |
+| :--- | :--- |
+| find | Find a user saved in the Database by its Tag |
+| get | get a tag saved by the mentioned user in the Database |
+| reset | reset a user's tag |
+| set | link a tag to the mentioned user |
+|  |  |
 
+| option | Usage |
+| :--- | :--- |
+| find | -tag find \<tag\> |
+| get | -tag get \<user\> |
+| reset | -tag reset \<user\> |
+| set | -tag set \<user\> \<tag\> |
+|  |  |
 
 {% hint style="danger" %}
 The user argument must be one word, the member id, the mentioned member or you can search for it when there are multiple members with the argument you have inserted.
