@@ -22,7 +22,7 @@ With this command we can enable the verification.
 | role | The default role every verified member gets. |
 
 {% hint style="danger" %}
-The role argument must be one word, the role id, the mentioned role or we can search for it when there are multiple roles with the argument we've inserted.
+The role argument must be one word, the role id, the mentioned role, or we can search for it when there are multiple roles with the argument we've inserted.
 {% endhint %}
 
 ##How to actually use it
