@@ -10,25 +10,15 @@ With this command you can set, reset or get a Usertag of a server member. You ca
 
 ##Usage
 
-`-tag <option> [member / tag] [tag]`
+`-tag <option> [user / tag] [tag]`
 
 | option | Description | Usage |
 | :--- | :--- | :--- |
-| find | Find a  |
-| set| set, get remove the role from the database |
-| role | The role the member gets (removed) for solo, duo, 3vs3 wins, the highest trophies or just when the verification was successful. |
-| add/remove | Wheter the role should be added or removed from the member |
-| solo / duo / 3vs3 / verified / highestTrophies |  |
-|  |  |
-
-| Argument | Description |
-| :--- | :--- | 
-| tag | Command name. |
-| set/reset/find/get | set, get remove the role from the database |
-| role | The role the member gets (removed) for solo, duo, 3vs3 wins, the highest trophies or just when the verification was successful. |
-| add/remove | Wheter the role should be added or removed from the member |
-| solo / duo / 3vs3 / verified / highestTrophies |  |
-|  |  |
+| find | Find a user saved in the Database by its Tag | -tag find <tag> |
+| get | get a tag saved by the mentioned user in the Database | -tag get <user> |
+| reset | reset a user's tag | -tag reset <user> |
+| set | link a tag to the mentioned user | -tag set <user> <tag> |
+|  |  |  |
 
 
 {% hint style="danger" %}
@@ -39,38 +29,25 @@ The user argument must be one word, the member id, the mentioned member or you c
 
 ![](../../assets/knirpsii_profile.png)
 
-We already set a role in the `verification` command that will be added to verified members. When we want to add another role to verified members, we can use the command like shown below.
 
+We have the tag `#YU9G98V8` but we don't know who saved themselves as this user. So we can find him/her with the following command.
 ```
--role add @BS_Player add verified
-```
-
-If we want to remove a role when the member verifies himself we use this command.
-
-```
--role add @Not_Verified remove verified
+-tag find #YU9G98V8
 ```
 
-We have the Brawl Stars Profile with the tag `#YU9G98V8` as shown in the picture above. We also have the role `@Dach_Legend` on the Discord server. If we want to give the role `@DACH_Legend` to every player which has more than 15.000 Trophies as his personal best, when the member verifies himself, we have to enter the following command.
+If we want to get the Tag saved by the user `@Knirpsii`, we run the following command.
 
 ```
--role add @Dach_Legend add highestTrophies 15000
+-tag get @Knirpsii
 ```
 
-If the player must have more than 1000 3vs3 victories to get the role `@+15k ⚔`, we enter the following command.
+If we want to reset the Tag from the user `@Knirpsii`, we can do so with the following command.
 
 ```
--role add @+15k ⚔ add 3vs3 15000
+-tag reset @Knirpsii
 ```
 
-if we want the player to get the role `@Verified` as soon as he verifies himself, with no other conditions, we enter the following command.
-
+If we want to edit the tag from the user `@Knirpsii` to `#YU9G98V8`` we can do so with this command.
 ```
--role add @Verified add verified
-```
-
-When we want to remove the role `@Dach_Legend` from the database we have to enter the following command.
-
-```
--role remove @Dach_Legend
+-tag set @Knirpsii #YU9G98V8
 ```

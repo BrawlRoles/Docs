@@ -6,7 +6,7 @@ Bot permission: `ADMINISTRATION`<br>User permission: `ADMINISTRATION`
 
 ##Description
 
-With this command you can set a channel in your Discord Server where Brawl-Roles is logging everything into about the verification save a success in Brawl Stars in our database. Availiable successes can be ``3vs3``, ``duo``
+With this command you can set a channel in your Discord Server where Brawl-Roles is logging everything into.
 
 ##Usage
 
