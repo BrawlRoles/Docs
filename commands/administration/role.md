@@ -1,7 +1,7 @@
 {% hint style="success" %}
 Permissions:
 
-Bot permission: `ADMINISTRATION`User permission: `ADMINISTRATION`
+Bot permission: `ADMINISTRATION`<br>User permission: `ADMINISTRATION`
 {% endhint %}
 
 ##Description
