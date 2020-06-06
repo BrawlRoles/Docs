@@ -22,10 +22,10 @@ With this command you can set, reset or get a Usertag of a server member. You ca
 
 | option | Usage |
 | :--- | :--- |
-| find | -tag find tag |
-| get | -tag get user |
-| reset | -tag reset user |
-| set | -tag set user [tag] |
+| find | `-tag find <tag>` |
+| get | `-tag get <user>` |
+| reset | `-tag reset <user>` |
+| set | `-tag set <user> <tag>` |
 |  |  |
 
 {% hint style="danger" %}

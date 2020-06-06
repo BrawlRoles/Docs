@@ -10,4 +10,6 @@ With this command we can get information about the bots latency and more
 
 ##Usage
 
+```
 -ping
+```
