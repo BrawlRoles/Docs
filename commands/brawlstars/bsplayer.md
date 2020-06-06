@@ -10,7 +10,7 @@ With this command we can get some rough stats of a Brawl Stars player.
 
 ##Usage
 
--bsplayer <player Tag>
+`-bsplayer <player Tag>`
 
 | Argument | Description |
 | :--- | :--- | 

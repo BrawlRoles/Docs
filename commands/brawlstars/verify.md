@@ -10,14 +10,13 @@ With this command you can get yourself some roles, by linking your Brawl Stars p
 
 ##Usage
 
-`-verify <Usertag> [Image]`
+`-verify <user Tag> [image]`
 
 | Argument | Description |
 | :--- | :--- |
 | verify | Command Name |
 | usertag | Your Brawl Stars usertag, you can find this in your profile |
 | image | This argument is optional, depending on the settings of your server, you might have to add a screenshot of your profile |
-|  |  |
 
 
 ##How to actually use it

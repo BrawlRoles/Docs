@@ -18,7 +18,6 @@ With this command you can set, reset or get a Usertag of a server member. You ca
 | get | get a tag saved by the mentioned user in the Database |
 | reset | reset a user's tag |
 | set | link a tag to the mentioned user |
-|  |  |
 
 | option | Usage |
 | :--- | :--- |
@@ -26,7 +25,6 @@ With this command you can set, reset or get a Usertag of a server member. You ca
 | get | `-tag get <user>` |
 | reset | `-tag reset <user>` |
 | set | `-tag set <user> <tag>` |
-|  |  |
 
 {% hint style="danger" %}
 The user argument must be one word, the member id, the mentioned member or you can search for it when there are multiple members with the argument you have inserted.
@@ -35,7 +33,6 @@ The user argument must be one word, the member id, the mentioned member or you c
 ##How to actually use it
 
 ![](../../assets/knirpsii_profile.png)
-
 
 We have the tag `#YU9G98V8` but we don't know who saved themselves as this user. So we can find him/her with the following command.
 ```

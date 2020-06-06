@@ -10,7 +10,7 @@ With this command we can change the bot's language of the server.
 
 ##Usage
 
--setlanguage <language>
+`-setlanguage <language>`
 
 | Argument | Description |
 | :--- | :--- | 

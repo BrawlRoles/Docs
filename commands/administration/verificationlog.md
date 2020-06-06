@@ -10,7 +10,7 @@ With this command you can set a channel in your Discord Server where Brawl-Roles
 
 ##Usage
 
--verificationlog <enable / disable> [channel]
+`-verificationlog <enable / disable> [channel]`
 
 | Argument | Description |
 | :--- | :--- | 

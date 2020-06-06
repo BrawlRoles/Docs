@@ -10,7 +10,7 @@ With this command we can change the bot's prefix of the server.
 
 ##Usage
 
--setprefix <prefix>
+`-setprefix <prefix>`
 
 | Argument | Description |
 | :--- | :--- | 

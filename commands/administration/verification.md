@@ -10,7 +10,7 @@ With this command we can enable the verification.
 
 ##Usage
 
--verification <enable / disable> [channel] [with image] [name change] [role]
+`-verification <enable / disable> [channel] [with image] [name change] [role]`
 
 | Argument | Description |
 | :--- | :--- | 

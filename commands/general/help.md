@@ -17,7 +17,6 @@ With this command you can show all the commands or get some information about a 
 | :--- | :--- |
 | help | Command Name |
 | command | The command you want to get the detailed information for. |
-|  |  |
 
 
 ##How to actually use it
