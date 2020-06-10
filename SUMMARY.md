@@ -12,8 +12,8 @@
 * [Setprefix](commands/administration/setprefix.md)
 * [Verification](commands/administration/verification.md)
 * [Verification-log](commands/administration/verificationlog.md)
-* [tag](commands/administration/tag.md)
-* [settings](commands/administration/settings.md)
+* [Tag](commands/administration/tag.md)
+* [Settings](commands/administration/settings.md)
 
 ##Brawl Stars commands
 * [Bsplayer](commands/brawlstars/bsplayer.md)
