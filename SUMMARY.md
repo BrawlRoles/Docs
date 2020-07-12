@@ -8,6 +8,7 @@
 ##Administration commands
 * [Club](commands/administration/club.md)
 * [Role](commands/administration/role.md)
+* [Brawler](commands/administration/brawler.md)
 * [Setlanguange](commands/administration/setlanguage.md)
 * [Setprefix](commands/administration/setprefix.md)
 * [Verification](commands/administration/verification.md)
