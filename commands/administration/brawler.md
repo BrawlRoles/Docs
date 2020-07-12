@@ -6,11 +6,12 @@ Bot permission: `ADMINISTRATION`<br>User permission: `ADMINISTRATION`
 
 ##Description
 
-With this command we can save a success in Brawl Stars in our database. Available successes can be .
+With this command we can add a role that will be handed out if the Brawl Stars user has a specific amount of trophies with a specific Brawler.
+
 
 ##Usage
+``-brawler <add / remove> <role> [trophies] [brawler]``
 
-`-role <add / remove> <role> [add / remove] [solo / duo / 3vs3 / verified / highestTrophies] [wins / highestTrophies]`
 
 | Argument | Description |
 | :--- | :--- | 
