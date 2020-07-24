@@ -25,7 +25,7 @@ Server registrations can take up to 12 hours, so please just be patient.
 {% endhint %}
 
 {% hint style="danger" %}
-A user account can only register on server, if you want to register a 2nd server, please use an alternative account. Also leaving our support server, will result in de-registration of your server, because we cannot inform you about the news anymore.{% endhint %}
+There can only be one server per user account registered. If you want to register a 2nd server, please use an alternative account. Also leaving the support server, will result in de-registration of your server, because we cannot inform you about the news anymore.{% endhint %}
 
 ###Where can I find my Server Id?
 
