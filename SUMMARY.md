@@ -4,6 +4,7 @@
 
 * [Introduction](overview/introduction.md)
 * [Setup](overview/setup.md)
+* [server-registration](overview/server-registration.md)
 
 ##Administration commands
 * [Brawler](commands/administration/brawler.md)
