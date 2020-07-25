@@ -20,7 +20,7 @@ With this Command, you can check all your saved roles and remove them if they we
 
 ##How to actually use it
 
-If we want to check all the Roles, let's run the following command.
+If we want to check all the Roles saved for the server, let's run the following command.
 
 ```
 -checkroles
