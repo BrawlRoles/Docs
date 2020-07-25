@@ -19,6 +19,7 @@ In these docs you can find help to every command the bot has. You can navigate o
 * [Tag](commands/administration/tag.md)
 * [Verification](commands/administration/verification.md)
 * [Verification-log](commands/administration/verificationlog.md)
+* [checkroles](commands/administration/checkroles.md)
 
 ##Brawl Stars commands
 * [Bsplayer](commands/brawlstars/bsplayer.md)

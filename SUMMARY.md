@@ -16,6 +16,7 @@
 * [Tag](commands/administration/tag.md)
 * [Verification](commands/administration/verification.md)
 * [Verification-log](commands/administration/verificationlog.md)
+* [checkroles](commands/administration/checkroles.md)
 
 ##Brawl Stars commands
 * [Bsplayer](commands/brawlstars/bsplayer.md)
