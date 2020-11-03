@@ -3,13 +3,12 @@
 In these docs you can find help to every command the bot has. You can navigate over the side bar or see more help below.
 
 
-##Overview
+## Overview
 
 * [Introduction](overview/introduction.md)
 * [Setup](overview/setup.md)
-* [server-registration](overview/server-registration.md)
 
-##Administration commands
+## Administration commands
 * [Brawler](commands/administration/brawler.md)
 * [Club](commands/administration/club.md)
 * [Role](commands/administration/role.md)
@@ -21,13 +20,13 @@ In these docs you can find help to every command the bot has. You can navigate o
 * [Verification-log](commands/administration/verificationlog.md)
 * [checkroles](commands/administration/checkroles.md)
 
-##Brawl Stars commands
+## Brawl Stars commands
 * [Bsplayer](commands/brawlstars/bsplayer.md)
 * [Sync](commands/brawlstars/sync.md)
 * [Update](commands/brawlstars/update.md)
 * [Verify](commands/brawlstars/verify.md)
 
-##General commands
+## General commands
 * [Docs](commands/general/docs.md)
 * [Help](commands/general/help.md)
 * [Invite](commands/general/invite.md)
