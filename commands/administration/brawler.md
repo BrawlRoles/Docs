@@ -32,7 +32,7 @@ The role argument must be one word, the role id, the mentioned role, or we can s
 ##How to actually use it
 
 
-If we want to add a the role ``Sandy_550`` when the member verifies and has the brawler ``Sandy`` at 550 trophies, we use this command.
+If we want to add the role ``Sandy_550`` when the member verifies and has the brawler ``Sandy`` at 550 trophies, we use this command.
 
 ```
 -brawler add @Sandy_550 550 Sandy
