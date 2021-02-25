@@ -1,7 +1,7 @@
 {% hint style="success" %}
 Permissions:
 
-Bot permission: `ADMINISTRATION`<br>User permission: `SEND_MESSAGES`
+Bot permission: `SEND MESSAGES`, `EMBED LINKS`, `MANAGE ROLES`, `MANAGE NICKNAMES`, `MANAGE WEBHOOKS`<br>User permission: `SEND MESSAGES`
 {% endhint %}
 
 ##Description
