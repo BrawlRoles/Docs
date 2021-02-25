@@ -1,7 +1,7 @@
 {% hint style="success" %}
 Permissions:
 
-Bot permission: `ADMINISTRATION`<br>User permission: `ADMINISTRATION`
+Bot permission: `SEND MESSAGES`, `EMBED LINKS`, `MANAGE ROLES`<br>User permission: `ADMINISTRATION`
 {% endhint %}
 
 ##Description
