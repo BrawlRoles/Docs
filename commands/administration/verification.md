@@ -1,7 +1,7 @@
 {% hint style="success" %}
 Permissions:
 
-Bot permission: `ADMINISTRATION`<br>User permission: `ADMINISTRATION`<br><br>Before the command can be used the verification-log must be enabled.
+Bot permission: `SEND MESSAGES`, `EMBED LINKS`<br>User permission: `ADMINISTRATION`
 {% endhint %}
 
 ##Description
